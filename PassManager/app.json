@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "PassManager",
+    "slug": "PassManager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo pass.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo pass.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.schuvi.PassManager"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "74c54420-d12e-4f0c-a5f5-6f97f2763518"
+      }
+    }
+  }
+}
